@@ -1,0 +1,14 @@
+.stickyFooter {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footerDiv {
+    background-image: url("../../img/banner.jpg");
+    margin-right: 8%;
+    margin-left: 4%;
+    margin-bottom: 0;
+    padding: 0.5%;
+}
