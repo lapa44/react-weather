@@ -2,4 +2,5 @@
     background-image: url("../../img/banner.jpg");
     background-size: cover;
     width: 100%;
+    /*flex: 1;*/
 }
